@@ -49,8 +49,11 @@ body {
   color: #404bbf;
 }
 
-.contacts-list {
+address {
   font-style: normal;
+}
+
+.contacts-list {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
